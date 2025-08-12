@@ -5,7 +5,6 @@
 - 🌐 Portfolio: https://linktree.com/syedabdulqadir
 - 💼 Open to collaboration on ML and Web projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
 
 [![MasterHead](https://thumbs.gfycat.com/TiredRipeFennecfox-size_restricted.gif)](https://hiteshlko1.io)
 
