@@ -6,14 +6,13 @@
 - 💼 Open to collaboration on ML and Web projects
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-### Hi there 👋
 
 [![MasterHead](https://thumbs.gfycat.com/TiredRipeFennecfox-size_restricted.gif)](https://hiteshlko1.io)
 
 
-- 🌱 I’m currently Persuing **Machine Learning , Deep Learning ,NLP ,Computer Vision**
+- 🌱 I’m currently pursuing **Machine Learning, Deep Learning, NLP , Computer Vision**
 
-- 💬 Ask me about **Python, SQL,ML,DL,NLP**
+- 💬 Ask me about **Python, SQL, ML, DL, NLP**
 
 
 </p>
