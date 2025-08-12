@@ -9,7 +9,7 @@
 [![MasterHead](https://thumbs.gfycat.com/TiredRipeFennecfox-size_restricted.gif)](https://hiteshlko1.io)
 
 
-- 🌱 I’m currently pursuing **Machine Learning, Deep Learning, NLP , Computer Vision**
+- 🌱 I’m currently pursuing **Machine Learning, Deep Learning, NLP, Computer Vision**
 
 - 💬 Ask me about **Python, SQL, ML, DL, NLP**
 
